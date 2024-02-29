@@ -1,0 +1,1 @@
+javac Sources/*.java
